@@ -20,6 +20,7 @@ namespace TestForm
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("The button is working");
+            MessageBox.Show("The commit is reflected");
         }
     }
 }
