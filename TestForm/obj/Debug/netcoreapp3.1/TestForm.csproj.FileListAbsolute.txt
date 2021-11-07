@@ -1,0 +1,16 @@
+C:\Users\pkwil\source\repos\ForVsCode\TestForm\bin\Debug\netcoreapp3.1\TestForm.exe
+C:\Users\pkwil\source\repos\ForVsCode\TestForm\bin\Debug\netcoreapp3.1\TestForm.deps.json
+C:\Users\pkwil\source\repos\ForVsCode\TestForm\bin\Debug\netcoreapp3.1\TestForm.runtimeconfig.json
+C:\Users\pkwil\source\repos\ForVsCode\TestForm\bin\Debug\netcoreapp3.1\TestForm.runtimeconfig.dev.json
+C:\Users\pkwil\source\repos\ForVsCode\TestForm\bin\Debug\netcoreapp3.1\TestForm.dll
+C:\Users\pkwil\source\repos\ForVsCode\TestForm\bin\Debug\netcoreapp3.1\TestForm.pdb
+C:\Users\pkwil\source\repos\ForVsCode\TestForm\obj\Debug\netcoreapp3.1\TestForm.csproj.AssemblyReference.cache
+C:\Users\pkwil\source\repos\ForVsCode\TestForm\obj\Debug\netcoreapp3.1\TestForm.Form1.resources
+C:\Users\pkwil\source\repos\ForVsCode\TestForm\obj\Debug\netcoreapp3.1\TestForm.csproj.GenerateResource.cache
+C:\Users\pkwil\source\repos\ForVsCode\TestForm\obj\Debug\netcoreapp3.1\TestForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pkwil\source\repos\ForVsCode\TestForm\obj\Debug\netcoreapp3.1\TestForm.AssemblyInfoInputs.cache
+C:\Users\pkwil\source\repos\ForVsCode\TestForm\obj\Debug\netcoreapp3.1\TestForm.AssemblyInfo.cs
+C:\Users\pkwil\source\repos\ForVsCode\TestForm\obj\Debug\netcoreapp3.1\TestForm.csproj.CoreCompileInputs.cache
+C:\Users\pkwil\source\repos\ForVsCode\TestForm\obj\Debug\netcoreapp3.1\TestForm.dll
+C:\Users\pkwil\source\repos\ForVsCode\TestForm\obj\Debug\netcoreapp3.1\TestForm.pdb
+C:\Users\pkwil\source\repos\ForVsCode\TestForm\obj\Debug\netcoreapp3.1\TestForm.genruntimeconfig.cache
